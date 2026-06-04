@@ -82,3 +82,12 @@ a {
 a:hover {
   text-decoration: underline;
 }
+.oculto {
+    display: none;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+    margin: 5px 0;
+}
